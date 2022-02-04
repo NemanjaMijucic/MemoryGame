@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MemoryGame/static/css/main.d1b2f2f0.css",
+    "main.js": "/MemoryGame/static/js/main.7f7e7b42.js",
+    "static/media/castle.png": "/MemoryGame/static/media/castle.c482e2fee2579caabadf.png",
+    "static/media/demon.png": "/MemoryGame/static/media/demon.4cd24a7ee783dfa698e0.png",
+    "static/media/brain.png": "/MemoryGame/static/media/brain.a728a1d4d420d7bd20c6.png",
+    "static/media/knight.png": "/MemoryGame/static/media/knight.438eb8f9f20b134d44a1.png",
+    "static/media/enchantress.png": "/MemoryGame/static/media/enchantress.d354982da59160142a34.png",
+    "static/media/lucina.png": "/MemoryGame/static/media/lucina.84e59d534840dcd7f15f.png",
+    "static/media/ghost.png": "/MemoryGame/static/media/ghost.5672fdb974afe05dd526.png",
+    "index.html": "/MemoryGame/index.html",
+    "main.d1b2f2f0.css.map": "/MemoryGame/static/css/main.d1b2f2f0.css.map",
+    "main.7f7e7b42.js.map": "/MemoryGame/static/js/main.7f7e7b42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b2f2f0.css",
+    "static/js/main.7f7e7b42.js"
+  ]
+}
